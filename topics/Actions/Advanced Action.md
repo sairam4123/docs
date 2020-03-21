@@ -25,4 +25,4 @@ Now let's fix that:
 
 Notice the extra bracket! Let's test it... and hooray! Now it works.
 
-Ready for a real challenge? Try to adapt this code to do something different. See if you can make a command that tells you whether a user is a bot or not. ([HINT](https://atlasbot.xyz/documentation/tags/user.bot))
+Ready for a real challenge? Try to adapt this code to do something different.  ([HINT](https://atlasbot.xyz/documentation/tags/user.bot))
